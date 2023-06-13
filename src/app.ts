@@ -1,20 +1,22 @@
-import cors from 'cors'
-import express, { Application, Request, Response, urlencoded } from 'express'
-import usersRoute from './app/modules/users/users.route'
-const app: Application = express()
+import cors from 'cors';
+import express, { Application, urlencoded } from 'express';
+import globalErrorHandler from './app/middlewares/globalErrorHandler';
+import routes from './routes';
+const app: Application = express();
 
-app.use(cors())
+app.use(cors());
 
 // parser
-app.use(express.json())
-app.use(urlencoded({ extended: true }))
+app.use(express.json());
+app.use(urlencoded({ extended: true }));
 
 // Application route
-app.use('/api/v1/users', usersRoute)
+app.use('/api/v1', routes);
 
-// Testing
-app.get('/', async (req: Request, res: Response) => {
-  res.send('Hello from app')
-})
+// app.get('/', (req, res) => {
+//   throw new ApiError(5000, 'Something went wrong')
+// })
 
-export default app
+app.use(globalErrorHandler);
+
+export default app;

@@ -1,0 +1,132 @@
+{
+  message: 'Database connected successfully.',
+  level: 'info',
+  label: 'UM!',
+  timestamp: '2023-06-06T07:01:54.526Z'
+}
+{
+  message: 'Server is running on port 5000',
+  level: 'info',
+  label: 'UM!',
+  timestamp: '2023-06-06T07:01:54.841Z'
+}
+{
+  message: 'Database connected successfully.',
+  level: 'info',
+  label: 'UM!',
+  timestamp: '2023-06-06T07:02:09.840Z'
+}
+{
+  message: 'Server is running on port 5000',
+  level: 'info',
+  label: 'UM!',
+  timestamp: '2023-06-06T07:02:09.848Z'
+}
+{
+  message: 'Database connected successfully.',
+  level: 'info',
+  label: 'UM!',
+  timestamp: '2023-06-06T07:03:09.622Z'
+}
+{
+  message: 'Server is running on port 5000',
+  level: 'info',
+  label: 'UM!',
+  timestamp: '2023-06-06T07:03:09.634Z'
+}
+{
+  message: 'Database connected successfully.',
+  level: 'info',
+  label: 'UM!',
+  timestamp: '2023-06-06T07:40:55.391Z'
+}
+{
+  message: 'Server is running on port 5000',
+  level: 'info',
+  label: 'UM!',
+  timestamp: '2023-06-06T07:40:55.416Z'
+}
+{
+  message: 'Database connected successfully.',
+  level: 'info',
+  label: 'UM!',
+  timestamp: '2023-06-06T07:44:14.013Z'
+}
+{
+  message: 'Server is running on port 5000',
+  level: 'info',
+  label: 'UM!',
+  timestamp: '2023-06-06T07:44:14.042Z'
+}
+{
+  message: 'Database connected successfully.',
+  level: 'info',
+  label: 'UM!',
+  timestamp: '2023-06-06T07:45:51.044Z'
+}
+{
+  message: 'Server is running on port 5000',
+  level: 'info',
+  label: 'UM!',
+  timestamp: '2023-06-06T07:45:51.055Z'
+}
+{
+  message: 'Database connected successfully.',
+  level: 'info',
+  label: 'UM!',
+  timestamp: '2023-06-06T07:47:20.683Z'
+}
+{
+  message: 'Server is running on port 5000',
+  level: 'info',
+  label: 'UM!',
+  timestamp: '2023-06-06T07:47:20.695Z'
+}
+{
+  message: 'Database connected successfully.',
+  level: 'info',
+  label: 'UM!',
+  timestamp: '2023-06-06T07:47:58.261Z'
+}
+{
+  message: 'Server is running on port 5000',
+  level: 'info',
+  label: 'UM!',
+  timestamp: '2023-06-06T07:47:58.276Z'
+}
+{
+  message: 'Database connected successfully.',
+  level: 'info',
+  label: 'UM!',
+  timestamp: '2023-06-06T07:48:38.549Z'
+}
+{
+  message: 'Server is running on port 5000',
+  level: 'info',
+  label: 'UM!',
+  timestamp: '2023-06-06T07:48:38.563Z'
+}
+{
+  message: 'Database connected successfully.',
+  level: 'info',
+  label: 'UM!',
+  timestamp: '2023-06-06T07:48:48.849Z'
+}
+{
+  message: 'Server is running on port 5000',
+  level: 'info',
+  label: 'UM!',
+  timestamp: '2023-06-06T07:48:48.862Z'
+}
+{
+  message: 'Database connected successfully.',
+  level: 'info',
+  label: 'UM!',
+  timestamp: '2023-06-06T07:49:50.621Z'
+}
+{
+  message: 'Server is running on port 5000',
+  level: 'info',
+  label: 'UM!',
+  timestamp: '2023-06-06T07:49:50.635Z'
+}
